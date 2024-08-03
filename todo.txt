@@ -1,0 +1,5 @@
+play
+music
+play chess
+sleep
+eat
